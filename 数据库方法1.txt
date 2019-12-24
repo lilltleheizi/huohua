@@ -61,4 +61,4 @@ AS OF TIMESTAMP TO_TIMESTAMP('2017-12-20 09:30:00', 'YYYY-MM-DD HH24:MI:SS')
   10：oracle	 通过exp导出数据库与操作系统字符集不匹配的时候报ora-00951的时候
   
      先设置 set NLS_LANG=AMERICAN_AMERICA.AL32UTF8   然后进行导出操作
-	 11
+	 112222222222222
